@@ -1,7 +1,7 @@
 <?php
 
-$servername ="ihavenohomecom.domaincommysql.com";
-$username = "jew";
+$servername ="";
+$username = "";
 $password = "";
 $dbname = "";
 
