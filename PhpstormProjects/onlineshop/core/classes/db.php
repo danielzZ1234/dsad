@@ -2,8 +2,8 @@
 
 $servername ="ihavenohomecom.domaincommysql.com";
 $username = "jew";
-$password = "Dsad1234?";
-$dbname = "jewish";
+$password = "";
+$dbname = "";
 
 $conn = new mysqli($servername,$username,$password,$dbname);
 if ($conn->connect_error) {
